@@ -48,3 +48,5 @@ Nueva fotografía real integrada en Behind the Scenes: Cristian operando cámara
 V12: etapa de acabado visual. La foto de Cristian operando cámara ahora es protagonista de la portada; se añadieron microanimaciones, barra de especialidades, CTA final y mejoras de interacción responsive.
 
 V13 QA final: videos convertidos a MP4 para mayor compatibilidad web; se añadieron thumbnails reales de YouTube a los proyectos con video público.
+
+V14 GitHub Pages: paquete optimizado para subida web. Se eliminaron los MOV duplicados y se recomprimieron los MP4 para reducir tamaño y facilitar la carga desde el navegador de GitHub.
